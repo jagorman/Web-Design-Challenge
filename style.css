@@ -3,11 +3,11 @@
 body {
   font-family: sans-serif;
   font-size: 1.1em;
-  background-color: rgb(22, 83, 214);
+  background-color:rgb(13, 56, 175);
 }
 
 .navbar-light .navbar-brand {
-  color: rgb(25, 36, 131);
+  color: white;
 }
 
 .navbar {
@@ -47,13 +47,13 @@ body {
 
 .text-left {
   text-align: left;
-  color: rgb(185, 9, 9);
+  color: rgb(20, 150, 150);
   font-family: 'Times New Roman', Times, serif;
   font-weight: bolder;
 }
 
 .text-center {
-  color: rgb(20, 55, 150);
+  color: rgb(20, 150, 150);
   font-family: 'Times New Roman', Times, serif;
   font-weight: bolder;
 }
